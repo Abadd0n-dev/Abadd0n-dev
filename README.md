@@ -1,6 +1,5 @@
 - ✋ Hi, I’m Ruslan
 - 🕚 I'm interested in programming
-- 💻 I am currently taking geek brains courses
 
 
 <!---
