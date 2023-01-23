@@ -1,5 +1,4 @@
 - ✋ Hi, I’m Ruslan
-- 🕚 I'm interested in programming
 
 
 <!---
